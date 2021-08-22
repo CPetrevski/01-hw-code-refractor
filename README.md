@@ -29,6 +29,8 @@ Have added syntax for accessibility throughout the webpage.
 
 Checked all links working.
 
-Have added comments to show what changes were made in the REPO
+Have added comments to show what changes were made in the REPO.
+
+Have tested website and comited final changes.
 
 
