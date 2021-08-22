@@ -3,7 +3,7 @@
 
 First HomeWork for 01-HTML, CSS, and Git: Code Refactor
 
-Have been given working webiste. Task is to optimise website for accessibility.
+Have been given working webiste. Task is to optimise website for accessibility standards.
 
 Acceptence Criteria is as states:
 
@@ -26,5 +26,9 @@ Have added alt tags to all the images including the banner image with the .hero 
 Added  descriptive Title.
 
 Have added syntax for accessibility throughout the webpage.
+
+Checked all links working.
+
+Have added comments to show what changes were made in the REPO
 
 
